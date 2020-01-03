@@ -230,7 +230,7 @@ DEPENDENCIES
   petergate (~> 2.0, >= 2.0.1)
   pg (>= 0.18, < 2.0)
   pry-byebug
-  puma (~> 3.11)
+  puma (~> 3.12)
   rails (~> 5.2.3)
   sass-rails (~> 5.0)
   spring
